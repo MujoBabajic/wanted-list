@@ -1,0 +1,18 @@
+.list-item img {
+  width: 300px;
+  height: 300px;
+  transition: 0.2s;
+}
+
+.list-item img:hover {
+  transition: 0.2s;
+  opacity: 0.7;
+}
+
+.list-item p {
+  width: 20rem;
+}
+
+.list-item h3 {
+  width: 20rem;
+}

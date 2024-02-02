@@ -1,0 +1,12 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+li {
+  margin: 10px;
+  list-style-type: none;
+}
