@@ -10,6 +10,6 @@ After cloning the repository, make sure you are in the root directory of the app
 
 And after that run:
 
-### `npm install`
+### `npm start`
 
 The page will automatically open in your default browser. If not, then simply go to 'http://localhost:3000' in your search bar.
