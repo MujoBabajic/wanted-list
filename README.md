@@ -1,6 +1,7 @@
 # FBI Wanted List App
 
-This React app uses FBI's API to get the data of current wanted fugitives.
+This is a very basic React app created for learning purposes.
+It uses FBI's API to get the data of current wanted fugitives.
 
 ## How to run the app
 
